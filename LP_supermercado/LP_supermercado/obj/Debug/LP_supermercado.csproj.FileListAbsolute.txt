@@ -9,3 +9,4 @@ C:\Users\Carlos Araújo\Desktop\dwm\Linguagem de Programação I\LP_supermercado
 C:\Users\Carlos Araújo\Desktop\dwm\Linguagem de Programação I\LP_supermercado\LP_supermercado\LP_supermercado\obj\Debug\LP_supermercado.pdb
 C:\Users\Carlos Araújo\Desktop\dwm\Linguagem de Programação I\LP_supermercado\LP_supermercado\LP_supermercado\obj\Debug\LP_supermercado.Form1.resources
 C:\Users\Carlos Araújo\Desktop\dwm\Linguagem de Programação I\LP_supermercado\LP_supermercado\LP_supermercado\obj\Debug\LP_supermercado.FormRegist.resources
+C:\Users\Carlos Araújo\Desktop\dwm\Linguagem de Programação I\LP_supermercado\LP_supermercado\LP_supermercado\obj\Debug\LP_supermercado.FormProduto.resources

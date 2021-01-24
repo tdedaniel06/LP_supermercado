@@ -27,7 +27,10 @@ namespace LP_supermercado
 
         private void btnLogin_Click(object sender, EventArgs e)
         {
-
+            var formProduto = new FormProduto();
+            this.Hide();
+            formProduto.Closed += (s, args) => this.Close();
+            formProduto.Show();
         }
     }
 }
