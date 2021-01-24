@@ -10,19 +10,11 @@ using System.Windows.Forms;
 
 namespace LP_supermercado
 {
-    public partial class Form1 : Form
+    public partial class FormRegist : Form
     {
-        public Form1()
+        public FormRegist()
         {
             InitializeComponent();
-        }
-
-        private void btnRegist_Click(object sender, EventArgs e)
-        {
-            var formRegist = new FormRegist();
-            this.Hide();
-            formRegist.Closed += (s, args) => this.Close();
-            formRegist.Show();
         }
 
         private void btnLogin_Click(object sender, EventArgs e)
