@@ -16,5 +16,26 @@ namespace LP_supermercado
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            var formLogin = new Form1();
+            this.Hide();
+            formLogin.Closed += (s, args) => this.Close();
+            formLogin.Show();
+        }
+
+        private void FormProduto_Load(object sender, EventArgs e)
+        {
+            // TODO: This line of code loads data into the 'lpSupermercadoDataSet.produtos' table. You can move, or remove it, as needed.
+            this.produtosTableAdapter.Fill(this.lpSupermercadoDataSet.produtos);
+
+        }
+
+        private void dtGridProdutos_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+            MessageBox.Show(dtGridProdutos.CurrentCell.Value.ToString());
+
+        }
     }
 }

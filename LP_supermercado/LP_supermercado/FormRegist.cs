@@ -25,6 +25,9 @@ namespace LP_supermercado
         private void btnBackRegist_Click(object sender, EventArgs e)
         {
             var formLogin = new Form1();
+
+
+
             this.Hide();
             formLogin.Closed += (s, args) => this.Close();
             formLogin.Show();

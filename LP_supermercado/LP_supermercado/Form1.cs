@@ -20,6 +20,9 @@ namespace LP_supermercado
         private void btnRegist_Click(object sender, EventArgs e)
         {
             var formRegist = new FormRegist();
+
+
+
             this.Hide();
             formRegist.Closed += (s, args) => this.Close();
             formRegist.Show();
