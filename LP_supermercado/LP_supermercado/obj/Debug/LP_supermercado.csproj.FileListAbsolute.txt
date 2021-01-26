@@ -11,6 +11,7 @@ C:\Users\Carlos Araújo\Desktop\dwm\Linguagem de Programação I\LP_supermercado
 C:\Users\Carlos Araújo\Desktop\dwm\Linguagem de Programação I\LP_supermercado\LP_supermercado\LP_supermercado\obj\Debug\LP_supermercado.Form1.resources
 C:\Users\Carlos Araújo\Desktop\dwm\Linguagem de Programação I\LP_supermercado\LP_supermercado\LP_supermercado\obj\Debug\LP_supermercado.FormRegist.resources
 C:\Users\Carlos Araújo\Desktop\dwm\Linguagem de Programação I\LP_supermercado\LP_supermercado\LP_supermercado\obj\Debug\LP_supermercado.FormProduto.resources
+<<<<<<< Updated upstream
 =======
 C:\Users\User\Desktop\TrabalhoLP\LP_supermercado\LP_supermercado\LP_supermercado\bin\Debug\LP_supermercado.exe.config
 C:\Users\User\Desktop\TrabalhoLP\LP_supermercado\LP_supermercado\LP_supermercado\bin\Debug\LP_supermercado.exe
@@ -21,4 +22,18 @@ C:\Users\User\Desktop\TrabalhoLP\LP_supermercado\LP_supermercado\LP_supermercado
 C:\Users\User\Desktop\TrabalhoLP\LP_supermercado\LP_supermercado\LP_supermercado\obj\Debug\LP_supermercado.csproj.CoreCompileInputs.cache
 C:\Users\User\Desktop\TrabalhoLP\LP_supermercado\LP_supermercado\LP_supermercado\obj\Debug\LP_supermercado.exe
 C:\Users\User\Desktop\TrabalhoLP\LP_supermercado\LP_supermercado\LP_supermercado\obj\Debug\LP_supermercado.pdb
+>>>>>>> Stashed changes
+=======
+C:\Users\alexa\Desktop\IPCA\LP_Final\LP_supermercado\LP_supermercado\LP_supermercado\bin\Debug\LP_supermercado.exe.config
+C:\Users\alexa\Desktop\IPCA\LP_Final\LP_supermercado\LP_supermercado\LP_supermercado\bin\Debug\LP_supermercado.exe
+C:\Users\alexa\Desktop\IPCA\LP_Final\LP_supermercado\LP_supermercado\LP_supermercado\bin\Debug\LP_supermercado.pdb
+C:\Users\alexa\Desktop\IPCA\LP_Final\LP_supermercado\LP_supermercado\LP_supermercado\obj\Debug\LP_supermercado.csprojAssemblyReference.cache
+C:\Users\alexa\Desktop\IPCA\LP_Final\LP_supermercado\LP_supermercado\LP_supermercado\obj\Debug\LP_supermercado.Form1.resources
+C:\Users\alexa\Desktop\IPCA\LP_Final\LP_supermercado\LP_supermercado\LP_supermercado\obj\Debug\LP_supermercado.FormProduto.resources
+C:\Users\alexa\Desktop\IPCA\LP_Final\LP_supermercado\LP_supermercado\LP_supermercado\obj\Debug\LP_supermercado.FormRegist.resources
+C:\Users\alexa\Desktop\IPCA\LP_Final\LP_supermercado\LP_supermercado\LP_supermercado\obj\Debug\LP_supermercado.Properties.Resources.resources
+C:\Users\alexa\Desktop\IPCA\LP_Final\LP_supermercado\LP_supermercado\LP_supermercado\obj\Debug\LP_supermercado.csproj.GenerateResource.cache
+C:\Users\alexa\Desktop\IPCA\LP_Final\LP_supermercado\LP_supermercado\LP_supermercado\obj\Debug\LP_supermercado.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Desktop\IPCA\LP_Final\LP_supermercado\LP_supermercado\LP_supermercado\obj\Debug\LP_supermercado.exe
+C:\Users\alexa\Desktop\IPCA\LP_Final\LP_supermercado\LP_supermercado\LP_supermercado\obj\Debug\LP_supermercado.pdb
 >>>>>>> Stashed changes
